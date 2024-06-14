@@ -9,5 +9,5 @@ irrecoverable afterwards! As such, this script comes with absolutely ZERO warran
 DATA LOSS IS GUARANTEED!                                                                                      
                                                                                                                
 To run StressIO, do as root:                                                                                  
-stressio.sh /dev/<device>                                                                                     
-where <device> is the drive identifier (such as sda, not an individual partion, such as sda1) 
+stressio.sh /dev/device                                                                                
+where "device" is the drive identifier (such as sda, not an individual partion, such as sda1) 
